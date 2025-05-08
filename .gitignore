@@ -1,0 +1,32 @@
+### Java / Maven ###
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+### VS Code ###
+.vscode/
+
+### Node / React ###
+node_modules/
+dist/
+.env
+.env.local
+.cache
+build/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Git ###
+*.orig
